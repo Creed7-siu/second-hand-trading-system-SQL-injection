@@ -93,8 +93,9 @@ It is confirmed that this endpoint lacks mandatory authentication. External atta
 
 1. **Vulnerable Code Snippet (Sink) in `usersmapper.xml`:**
    ![Vulnerable Code Snippet](usermapper-xml.png)
-2. **Mapper Interface `UsersMapper.java`:**
-   ![Mapper Interface](usermapper-java.png)
+2. **Mapper Interface `UsersMapper.java` :** 
+
+![Mapper Interface](usermapper-java.png)
 3. **Controller Source and Method Call in `UsersController.java`:**
    ![Controller Source and Call](userscontroller-java.png)
    ![Controller Source and Call 2](userscontroller-java2.png)
